@@ -1,0 +1,14 @@
+em {
+    color: red;
+    text-decoration: underline;
+}
+
+code {
+    color: orange;
+    text-decoration: underline;
+}
+
+li>code {
+    color: white;
+    background-color: black;
+}
